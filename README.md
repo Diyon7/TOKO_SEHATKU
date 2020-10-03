@@ -6,7 +6,7 @@ Setting Database Sesuai Kebutuhan di .env
 database.default.hostname = localhost
 database.default.database = tokoalatobat
 database.default.username = root
-database.default.password = 
+database.default.password = ""
 database.default.DBDriver = MySQLi
 
 ------------------------------------
